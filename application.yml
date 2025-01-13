@@ -1,0 +1,8 @@
+cvbs:
+ success:
+   code: 200
+ failure:
+   code: 000
+
+confirmation:
+ message: "reading from github"
